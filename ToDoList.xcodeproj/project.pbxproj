@@ -17,6 +17,7 @@
 		C29065D728871C7F007E43C8 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29065D628871C7F007E43C8 /* ToDo.swift */; };
 		C29065F92888851B007E43C8 /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29065F82888851B007E43C8 /* AddToDoViewController.swift */; };
 		C29065FB28889D76007E43C8 /* CompleteToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29065FA28889D76007E43C8 /* CompleteToDoViewController.swift */; };
+		C2D81CAE2889CC140086882A /* WelcomePageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2D81CAD2889CC140086882A /* WelcomePageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		C29065D628871C7F007E43C8 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 		C29065F82888851B007E43C8 /* AddToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
 		C29065FA28889D76007E43C8 /* CompleteToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteToDoViewController.swift; sourceTree = "<group>"; };
+		C2D81CAD2889CC140086882A /* WelcomePageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 				C29065BD28871862007E43C8 /* AppDelegate.swift */,
 				C29065BF28871862007E43C8 /* SceneDelegate.swift */,
 				C29065C328871862007E43C8 /* Main.storyboard */,
+				C2D81CAD2889CC140086882A /* WelcomePageViewController.swift */,
 				C29065F82888851B007E43C8 /* AddToDoViewController.swift */,
 				C29065FA28889D76007E43C8 /* CompleteToDoViewController.swift */,
 				C29065D628871C7F007E43C8 /* ToDo.swift */,
@@ -151,6 +154,7 @@
 			files = (
 				C29065BE28871862007E43C8 /* AppDelegate.swift in Sources */,
 				C29065D728871C7F007E43C8 /* ToDo.swift in Sources */,
+				C2D81CAE2889CC140086882A /* WelcomePageViewController.swift in Sources */,
 				C29065C028871862007E43C8 /* SceneDelegate.swift in Sources */,
 				C29065FB28889D76007E43C8 /* CompleteToDoViewController.swift in Sources */,
 				C29065C828871862007E43C8 /* ToDoList.xcdatamodeld in Sources */,
