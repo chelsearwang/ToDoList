@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C2221A7D288A081900114192 /* NotepadViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2221A7C288A081900114192 /* NotepadViewController.swift */; };
+		C2221A7F288A099000114192 /* EntryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2221A7E288A099000114192 /* EntryViewController.swift */; };
+		C2221A81288A0A0700114192 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2221A80288A0A0700114192 /* ViewController.swift */; };
 		C29065BE28871862007E43C8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29065BD28871862007E43C8 /* AppDelegate.swift */; };
 		C29065C028871862007E43C8 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C29065BF28871862007E43C8 /* SceneDelegate.swift */; };
 		C29065C528871862007E43C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C29065C328871862007E43C8 /* Main.storyboard */; };
@@ -21,6 +24,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C2221A7C288A081900114192 /* NotepadViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotepadViewController.swift; sourceTree = "<group>"; };
+		C2221A7E288A099000114192 /* EntryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntryViewController.swift; sourceTree = "<group>"; };
+		C2221A80288A0A0700114192 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		C29065BA28871862007E43C8 /* ToDoList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ToDoList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C29065BD28871862007E43C8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C29065BF28871862007E43C8 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +75,9 @@
 				C29065BD28871862007E43C8 /* AppDelegate.swift */,
 				C29065BF28871862007E43C8 /* SceneDelegate.swift */,
 				C29065C328871862007E43C8 /* Main.storyboard */,
+				C2221A80288A0A0700114192 /* ViewController.swift */,
+				C2221A7E288A099000114192 /* EntryViewController.swift */,
+				C2221A7C288A081900114192 /* NotepadViewController.swift */,
 				C2D81CAD2889CC140086882A /* WelcomePageViewController.swift */,
 				C29065F82888851B007E43C8 /* AddToDoViewController.swift */,
 				C29065FA28889D76007E43C8 /* CompleteToDoViewController.swift */,
@@ -152,8 +161,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2221A7D288A081900114192 /* NotepadViewController.swift in Sources */,
+				C2221A7F288A099000114192 /* EntryViewController.swift in Sources */,
 				C29065BE28871862007E43C8 /* AppDelegate.swift in Sources */,
 				C29065D728871C7F007E43C8 /* ToDo.swift in Sources */,
+				C2221A81288A0A0700114192 /* ViewController.swift in Sources */,
 				C2D81CAE2889CC140086882A /* WelcomePageViewController.swift in Sources */,
 				C29065C028871862007E43C8 /* SceneDelegate.swift in Sources */,
 				C29065FB28889D76007E43C8 /* CompleteToDoViewController.swift in Sources */,
